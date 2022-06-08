@@ -1,0 +1,39 @@
+  body
+  {
+    color: white;
+    background-size: cover;
+    background-position: center;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dotted deeppink;
+    width: 350px;
+    height: 300px; 
+  }
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: deeppink;
+  }
+
+#h3
+{
+  font-family: 'Licorice', cursive;
+  font-family: 'Pushster', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Vujahday Script', cursive;
+  color: red;
+}
+
+#p
+{
+  font-family: 'Licorice', cursive;
+  font-family: 'Pushster', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Vujahday Script', cursive;
+  color: black;
+}
